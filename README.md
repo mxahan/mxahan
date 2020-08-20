@@ -1,28 +1,51 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+# Hello! :wave: <br>This is Zahid Hasan.    
+ML Researcher / Multi-disciplinary Web Developer    / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
 
-<div align="center" width="50">
+* [Personal Website](https://mxahan.github.io/ "Personal Website")
+* [LinkedIn Profile](https://www.linkedin.com/in/zahid-hasan-10184b156/ "LinkedIn Profile")
+* [GitHub Profile](https://github.com/mxahan "GitHub Profile")
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+## Who I am
 
-</div>
+### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
+> I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
 
-Happy Coding! 😊
+I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
 
-<div align="center">
+I am an avid doodler, a dreamer and an INFP among a gazillion other things.
 
+## Services
 
-<i>Follow me:</i><br>
+### What I Can Do For You
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+#### **Your website, with Responsive Web Design**
 
-</div>
+Looks great on any screen size!
 
+#### **Add content to your website yourself, with a CMS**
 
-⭐ From [ABSphreak](https://github.com/ABSphreak)
+Wordpress or ProcessWire, your choice!
+
+#### **Promotion of you Business, online**
+
+Get the word out there!
+
+#### **Custom Solutions, I've got your back**
+
+Custom database, custom CMS, or your own design, handcrafted with :heart:
+
+## The process
+
+>Helping businesses, webmasters, and individuals establish a successful Web Presence from 2003 to date, having worked on a variety of projects ranging from small websites to medium scaled web applications.
+
+I am experienced on all phases of the product cycle: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
+
+## Welcome to _your_ next website!
+
+[Contact me now!](https://elissavet.me/#contact)
+
+## Just before you go...
+[Connect with me on LinkedIn](https://gr.linkedin.com/in/elitriant) -- [See my experiments on Codepen](https://codepen.io/elisavetTriant/)
+
+`⭐️ From [elisavetTriant](https://github.com/elisavetTriant)`
