@@ -9,31 +9,29 @@ ML Researcher / Dreamer / Deep learning / Educator /
 
 ### Hello there! My name is Zahid Hasan and I come from a planet called Earth.
 
-> I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
+> I am interested in real life data-driven problem solving techniques and their application scope.
 
-I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
-
-I am an avid doodler, a dreamer and an INFP among a gazillion other things.
+I try to understand behind the scene incident on how the computer learns from mere numerical representation.
 
 ## Services
 
 ### What I Can Do For You
 
-#### **Your website, with Responsive Web Design**
+#### **Discussion about Recent ML**
 
-Looks great on any screen size!
+We can discuss different new approach in the vast field of AI. We can explore the solved domains and their potential expansion opportunities. 
 
-#### **Add content to your website yourself, with a CMS**
+#### **Analyze our Approach**
 
 Wordpress or ProcessWire, your choice!
 
-#### **Promotion of you Business, online**
+#### **Think potential solutions**
 
 Get the word out there!
 
-#### **Custom Solutions, I've got your back**
+#### **Discuss different topics**
 
-Custom database, custom CMS, or your own design, handcrafted with :heart:
+I can discuss some emerging topics to sharpen both of our understandings. 
 
 ## The process
 
@@ -41,11 +39,10 @@ Custom database, custom CMS, or your own design, handcrafted with :heart:
 
 I am experienced on all phases of the product cycle: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
 
-## Welcome to _your_ next website!
+## Welcome to the World of AI
 
-[Contact me now!](https://elissavet.me/#contact)
+[Contact me now!](https://mxahan.github.io/about/)
 
-## Just before you go...
-[Connect with me on LinkedIn](https://gr.linkedin.com/in/elitriant) -- [See my experiments on Codepen](https://codepen.io/elisavetTriant/)
+## Source Page Credit
 
 `⭐️ From [elisavetTriant](https://github.com/elisavetTriant)`
