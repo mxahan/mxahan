@@ -1,5 +1,5 @@
 # Hello! :wave: <br>This is Zahid Hasan.    
-ML Researcher / Multi-disciplinary Web Developer    / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
+ML Researcher / Dreamer / Deep learning / Educator /
 
 * [Personal Website](https://mxahan.github.io/ "Personal Website")
 * [LinkedIn Profile](https://www.linkedin.com/in/zahid-hasan-10184b156/ "LinkedIn Profile")
@@ -7,7 +7,7 @@ ML Researcher / Multi-disciplinary Web Developer    / All Things Web / Lifelong 
 
 ## Who I am
 
-### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
+### Hello there! My name is Zahid Hasan and I come from a planet called Earth.
 
 > I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
 
