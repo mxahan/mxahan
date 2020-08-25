@@ -31,7 +31,7 @@ I can discuss some emerging topics to sharpen both of our understandings.
 
 ## The process
 
->Helping businesses, webmasters, and individuals establish a successful Web Presence from 2003 to date, having worked on a variety of projects ranging from small websites to medium scaled web applications.
+> Shoot me an email with the reference paper or article. We can discuss from there.
 
 I am experienced on all phases of the product cycle: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
 
@@ -41,4 +41,4 @@ I am experienced on all phases of the product cycle: idea, concept and  design, 
 
 ## Source Page Credit
 
-`⭐️ From [elisavetTriant](https://github.com/elisavetTriant)`
+[elisavetTriant](https://github.com/elisavetTriant)`
