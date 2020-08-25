@@ -11,7 +11,7 @@ ML Researcher / Dreamer / Deep learning / Educator /
 
 > I am interested in real life data-driven problem solving techniques and their application scope.
 
-I try to understand behind the scene incident on how the computer learns from mere numerical representation.
+I try to understand behind the scene incident on how the computer learns from mere numerical representation. Icare about learning in general.
 
 ## Services
 
@@ -19,11 +19,7 @@ I try to understand behind the scene incident on how the computer learns from me
 
 #### **Discussion about Recent ML**
 
-We can discuss different new approach in the vast field of AI. We can explore the solved domains and their potential expansion opportunities. 
-
-#### **Analyze our Approach**
-
-Wordpress or ProcessWire, your choice!
+We can discuss different new approach in the vast field of AI. We can explore the solved domains and their potential expansion opportunities. We can also discuss about different scientific papers regarding their claim and approaches. 
 
 #### **Think potential solutions**
 
