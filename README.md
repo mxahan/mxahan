@@ -33,7 +33,6 @@ I can discuss some emerging topics to sharpen both of our understandings.
 
 > Shoot me an email with the reference paper or article. We can discuss from there.
 
-I am experienced on all phases of the product cycle: idea, concept and  design, analysis and development as well as launch and promotion of the final product. Hands on experience in Information Architecture and Database Design, Web Development and Design, popular Open Source CMS Theming and Templating, User Support, Communications Assistance and Digital Marketing.
 
 ## Welcome to the World of AI
 
